@@ -30,6 +30,8 @@
 - powerpc/powerpc64：Linux 内核 `arch/powerpc/kernel/syscalls/syscall.tbl`
 - s390/s390x：Linux 内核 `arch/s390/kernel/syscalls/syscall.tbl`
 
+> 如果你想要更详细的系统调用源码映射，请参考 [syscalls.mebeim.net](https://syscalls.mebeim.net)。
+
 ## 技术细节
 
 - 纯静态 HTML，无外部依赖

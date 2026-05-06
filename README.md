@@ -32,6 +32,8 @@ Open `index.html` in a web browser. No server required - it's a standalone HTML 
 - powerpc/powerpc64: Linux kernel `arch/powerpc/kernel/syscalls/syscall.tbl`
 - s390/s390x: Linux kernel `arch/s390/kernel/syscalls/syscall.tbl`
 
+> If you need more detailed syscall source code mapping, check out [syscalls.mebeim.net](https://syscalls.mebeim.net).
+
 ## Technical Details
 
 - Pure static HTML, no external dependencies
